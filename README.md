@@ -1,5 +1,2 @@
 ## Just practicing my GitHub pages 
-| Square | Test 1 | Test 2 | Test 3 | Test 4 |
-|---|---|---|---|---|
-|**Label**| Deets | I LOVE | Making Tables | In Markdown|
-
+Do I know what I'm doing? Nooooo
